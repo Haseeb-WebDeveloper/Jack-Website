@@ -268,8 +268,9 @@
 
 .gallery-block_one-heading{
 	position:relative;
-	font-weight: 800;
+	font-weight: 700;
 	margin-top:10px;
+	letter-spacing: 2px;
 	text-transform:uppercase;
 }
 

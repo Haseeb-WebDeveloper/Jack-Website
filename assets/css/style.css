@@ -261,9 +261,9 @@
 
 .gallery-block_one-title{
 	position:relative;
-	font-size:18px;
+	font-size:20px;
 	text-transform:capitalize;
-	color:rgba(var(--white-color-rgb), 0.50);
+	color:rgba(var(--white-color-rgb), 0.80);
 }
 
 .gallery-block_one-heading{
